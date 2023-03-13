@@ -1,0 +1,23 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Welcome to the new blog",
+            "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum reiciendis enim temporibus dolorem molestiae, veritatis consectetur id similique rerum numquam nesciunt ipsa assumenda libero commodi accusamus cumque nostrum blanditiis, ullam perspiciatis, cupiditate reprehenderit? In magnam illo nobis doloribus rem ullam perferendis, cumque culpa doloremque laudantium nesciunt rerum fuga quod esse error dolores similique! Culpa eveniet consequatur veritatis mollitia est numquam nostrum beatae vitae ipsa molestias, cumque laboriosam consectetur iusto aliquam sed repudiandae expedita totam ratione explicabo rem possimus natus repellat. At ratione consequatur cumque itaque! Vitae maiores ipsa ea voluptate est impedit neque, odio eaque placeat iure totam voluptas nulla.",
+            "tags": ["webdev", "coding", "news"]
+        },
+        {
+            "id": 2,
+            "title": "Top 5 CSS Tips",
+            "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum reiciendis enim temporibus dolorem molestiae, veritatis consectetur id similique rerum numquam nesciunt ipsa assumenda libero commodi accusamus cumque nostrum blanditiis, ullam perspiciatis, cupiditate reprehenderit? In magnam illo nobis doloribus rem ullam perferendis, cumque culpa doloremque laudantium nesciunt rerum fuga quod esse error dolores similique! Culpa eveniet consequatur veritatis mollitia est numquam nostrum beatae vitae ipsa molestias, cumque laboriosam consectetur iusto aliquam sed repudiandae expedita totam ratione explicabo rem possimus natus repellat. At ratione consequatur cumque itaque! Vitae maiores ipsa ea voluptate est impedit neque, odio eaque placeat iure totam voluptas nulla.",
+            "tags": ["css", "webdev", "coding"]
+        },
+        { 
+            "id": 3,
+            "title": "Building with VueJS",
+            "body": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minus quos cum doloribus consequatur explicabo debitis dolore odit repellendus tempore aspernatur non, dolor nostrum laudantium quidem accusamus quaerat autem harum perspiciatis illo esse! Odit vero dignissimos, animi numquam sed aspernatur ipsum inventore quisquam porro praesentium modi voluptate maiores earum aliquam nulla deleniti, impedit voluptatum dolorum itaque, exercitationem ratione? Minus voluptates excepturi iste voluptate numquam pariatur, quia non corrupti qui a sit optio! Praesentium mollitia sunt vero enim quis! Nisi, facere error, minima asperiores dicta veritatis ipsam iusto molestiae, neque iste nam soluta sequi et hic magni magnam qui deleniti explicabo rerum!",
+            "tags": ["vue", "coding", "webdev"]
+        }
+        
+    ]
+}
